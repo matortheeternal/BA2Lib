@@ -1,6 +1,7 @@
 // BA2Lib.h
 
 #pragma once
+
 #include "BA2.h";
 #include <vector>;
 

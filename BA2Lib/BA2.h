@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <fstream>
 #include <string>
-#include "zlib.h"
+#include "zlib\zlib.h"
 #include "dds.h"
 
 using namespace std;

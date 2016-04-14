@@ -58,7 +58,7 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>F:\Documents\Visual Studio 2013\Projects\EsmParser\EsmParser\zlib.lib;</AdditionalDependencies>
+      <AdditionalDependencies>C:\dev\git\BA2Lib\Release\zlib.lib</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
