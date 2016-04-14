@@ -44,3 +44,7 @@ Temporary Items
 BA2Lib/Release/
 Release/
 BA2Lib.opensdf
+BA2Lib/zlib/Debug/
+BA2Lib/Debug/
+Debug/
+BA2Lib.sdf
